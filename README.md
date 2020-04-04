@@ -3,10 +3,10 @@
 
 ### git clone https://github.com/RahulHackz/RX-DDoS
 
-### cd DDos-Attack
+### cd RX-DDoS
 
-### chmod +x ddos-attack.py
+### chmod +x rx-ddos.py
 
-### python ddos-attack.py
+### python rx-ddos.py
 
 By Mr. RX100
