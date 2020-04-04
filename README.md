@@ -1,2 +1,12 @@
-# RX-DDoS
-Simple and powerful DDoS tool made by Mr. RX100
+
+### Dwonload&Install
+
+### git clone https://github.com/RahulHackz/RX-DDoS
+
+### cd DDos-Attack
+
+### chmod +x ddos-attack.py
+
+### python ddos-attack.py
+
+By Mr. RX100
